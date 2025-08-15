@@ -8,3 +8,7 @@
 - Include all required files for grading. 
 ## Project Folder Rules
 - Keep project files organized and clearly named. 
+
+
+# Project Objective
+- This project deals about how the things and actions that are taken on a daily basis have a considerable macroscopic quantum of effect on the financial markets and the detailed definiton of the proble and the intended solution to arrive at the conclusion is provided in the file README_PD.md. For this the project uses the data colection, data analysis and provide a conclusive report and follow the lifecyle methodology mentioned at the start of the bootcamp.
