@@ -1,14 +1,4 @@
-# Bootcamp Repository 
-## Folder Structure
-- **homework/** → All homework contributions will be submitted here. 
-- **project/** → All project contributions will be submitted here.
-- **class_materials/** → Local storage for class materials. Never pushed to GitHub. 
-## Homework Folder Rules
-- Each homework will be in its own subfolder (`homework0`, `homework1`, etc.)
-- Include all required files for grading. 
-## Project Folder Rules
-- Keep project files organized and clearly named. 
- # Optimizing Social Media Activity to predict Market Anomalies: A Case Study of Carvana, Inc. 
+# Optimizing Social Media Activity to predict Market Anomalies: A Case Study of Carvana, Inc. 
 **Stage:** Problem Framing & Scoping (Stage 01)
 ## Problem Statement 
 - Carvana, Inc. (CVNA) has seen a significant increase in its share price from its early years to now, drawing notable attention from major institutional investors and market participants. This growth in visibility has made Carvana a closely watched stock, with high daily trading volumes and volatile price swings. This project examines how routine social media activity, such as daily post volume and engagement metrics related to Carvana, affects its stock market behavior, particularly in detecting market irregularities like abnormal returns and volatility spikes. Understanding and quantitatively leveraging this connection is important because it can offer traders and analysts early warning signs of market-moving events. By utilizing optimization algorithms like Genetic Algorithms or Particle Swarm Optimization, the project aims to find the best combination of social media and stock market features that enhances the early detection of these anomalies.
