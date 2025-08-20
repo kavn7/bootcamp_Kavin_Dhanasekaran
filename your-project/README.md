@@ -1,0 +1,3 @@
+## Project Overview
+- This project investigates how daily social media activity—such as post volume and engagement metrics—affects the stock behavior of Carvana Inc. (CVNA). By building a reproducible data ingestion pipeline and applying optimization algorithms like Genetic Algorithms and Particle Swarm Optimization, the goal is to detect market anomalies such as abnormal returns and volatility spikes. 
+- This work aims to provide early warning signals for traders and analysts by leveraging the intersection of social sentiment and financial data.
