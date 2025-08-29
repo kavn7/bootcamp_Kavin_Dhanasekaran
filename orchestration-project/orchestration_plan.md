@@ -1,0 +1,2 @@
+Automate now: tasks ingest, clean, train_or_score, report—these are scriptable, idempotent, and benefit from repeatable runs.
+Manual for now: exploratory data analysis and model tuning—requires human judgment and iterative visualization.
